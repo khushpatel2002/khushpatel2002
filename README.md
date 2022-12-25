@@ -29,15 +29,18 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS%20-%231572B6.svg?logo=sass3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2314354C.svg?logo=Dart&logoColor=white"></a>
+   
 
 ### 🧰 Frameworks and Libraries
 
@@ -46,20 +49,41 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23FF6F00.svg?logo=Flutter&logoColor=white"></a>
-  
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%231F6F00.svg?logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="TPot" src="https://img.shields.io/badge/TPot%20-%23013243.svg?logo=TPot&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-21759B?logo=BootStrap&logoColor=white"></a>
+    <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango%20-%231F6F00.svg?logo=DJango&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?logo=Flutter&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-%23316192.svg?logo=netlify&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-%23430098.svg?logo=Netlify&logoColor=white"></a>
+</p>
+
+### - Software and Tools
+
+<p>
+    <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/AdobeXD%20-%23FF0000.svg?logo=adobe-xd&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23FF3460.svg?logo=Figma&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop%20-5A05E8.svg?logo=Adobe-Photoshop&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator%20-F5AD2B.svg?logo=Adobe-Illustrator&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe Premiere%20-3DA7EB.svg?logo=Adobe-Premiere&logoColor=white"></a>
+    <a href="#"><img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe InDesign%20-%23FF0000.svg?logo=Adobe-InDesign&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>  
+    <a href="#"><img alt="Webflow" src="https://img.shields.io/badge/Webflow%20-008678.svg?logo=Webflow&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> 
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DA7EB.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Autodesk 3ds MAX" src="https://img.shields.io/badge/Autodesk%203ds%20MAX%20Studio-008678.svg?logo=Autodesk-3ds-MAX&logoColor=white"></a> 
+    <a href="#"><img alt="Fusion 360" src="https://img.shields.io/badge/Fusion-360-FF6C37?logo=Fusion-360&logoColor=white"></a>
 </p>
 
 
