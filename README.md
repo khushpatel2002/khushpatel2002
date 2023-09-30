@@ -67,7 +67,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="PostgreSql" src ="https://img.shields.io/badge/PostgreSql%23430098.svg?logo=PostgreSql&logoColor=white"></a>
 </p>
 
-### 🗄️ Cloud and MlOps and Vector Stores
+### 🗄️ Cloud and MlOps
 
 <p>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure%20Pages-%23327FC7.svg?logo=Azure&logoColor=white"></a>
